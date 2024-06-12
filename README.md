@@ -12,6 +12,13 @@ Developed by:<br>
 - Massimo Emiliano  Politecnico di Torino, Italy <br>
 - Gioele Sineo      Politecnico di Torino, Italy <br>
 </pre>
+
+<pre>
+Reviewed by:<br>
+- Francesco Corvaglia
+- Niccolò Lentini
+- Amalia Vittoria Montemurro
+</pre>
  
 <br>
 <br>
